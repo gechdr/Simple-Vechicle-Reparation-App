@@ -99,8 +99,8 @@ Built with modern Android development practices using Single Activity Architectu
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/gechdr/Kotlin-VechicleReparationApp.git
-cd Kotlin-VechicleReparationApp
+git clone https://github.com/gechdr/Simple-Vechicle-Reparation-App.git
+cd Simple-Vechicle-Reparation-App
 ```
 
 ### Open in Android Studio
